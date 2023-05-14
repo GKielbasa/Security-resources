@@ -1,2 +1,2 @@
 # Security-resources
-usefull links 
+usefull links and my notes( in the future)
